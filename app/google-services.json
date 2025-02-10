@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "518751018145",
-    "project_id": "studentexpensetracker-be43f",
-    "storage_bucket": "studentexpensetracker-be43f.firebasestorage.app"
+    "project_number": "311057173070",
+    "project_id": "echopay-56c7d",
+    "storage_bucket": "echopay-56c7d.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:518751018145:android:c41a4b5d12a5b7899e24e0",
+        "mobilesdk_app_id": "1:311057173070:android:cb1b44e43f3d1079da911f",
         "android_client_info": {
           "package_name": "com.example.studentexpensetracker"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDsQ7bR_5G4qeGMoIokA4LPupdNMTy6rso"
+          "current_key": "AIzaSyAsdG1SvkVGCMrq-aZTflquMXoMpjNTnd8"
         }
       ],
       "services": {
